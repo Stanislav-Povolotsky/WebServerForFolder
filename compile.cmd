@@ -1,0 +1,1 @@
+go build -ldflags "-s -w" webserverforfolder.go
