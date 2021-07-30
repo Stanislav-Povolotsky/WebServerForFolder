@@ -4,11 +4,11 @@ Simple Web-server to share current folder over the HTTP
   
 Format:  
 ```shell
-	WebServerForFolder [\<port\> [\<folder\>]]  
+	WebServerForFolder [<port> [<folder>]]  
 ```
 where  
-:	\<port\>   - HTTP-port (80 by default)  
-:	\<folder\> - path to the folder to share (current folder by default)  
+>	\<port\>   - HTTP-port (80 by default)  
+>	\<folder\> - path to the folder to share (current folder by default)  
 
 Examples:
 ```shell
