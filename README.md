@@ -20,3 +20,5 @@ Examples:
 	# Share folder c:\Temp. Web-server can be reached by http://<computername>:8080/
 	WebServerForFolder 8080 c:\Temp
 ```
+  
+![Example:](https://user-images.githubusercontent.com/19610545/127737876-3a14ebe2-3cb8-4de9-981c-de3b4586aaa7.gif)
